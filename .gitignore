@@ -1,0 +1,6 @@
+.vagrant
+settings/conf
+flask/
+Vagrantfile
+.idea/
+*.pyc
